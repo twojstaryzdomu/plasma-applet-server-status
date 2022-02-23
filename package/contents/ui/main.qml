@@ -59,8 +59,6 @@ Item {
 	}
 	
 	Plasmoid.fullRepresentation: Item {
-		Layout.preferredWidth: 300
-		Layout.preferredHeight: 300
 		
 		ListView {
 			id: serversListView
